@@ -2,9 +2,11 @@ import './Footer.css';
 
 function Footer() {
     return (
-        <div class="footer">
-            <footer>This is footer.</footer>
+
+        <div class="fixed-bottom footer">
+            This is footer.
         </div>
+
 
     )
 
